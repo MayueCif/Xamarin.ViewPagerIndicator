@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Xamarin.ViewPagerIndicatorTest</string>
+	<string name="section_format">Hello World from section: %1$d</string>
+</resources>
